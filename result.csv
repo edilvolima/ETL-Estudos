@@ -1,0 +1,11 @@
+PRTL,CD_CLI,TXT_MSG,ENT
+1001,25,Z,"{""Entidades"": [{""indicador"": 74, ""palavras"": [0], ""cod_palavra"": [0]}, {""indicador"": 75, ""palavras"": [0], ""cod_palavra"": [0]}]}"
+1002,30,P,"{""Entidades"": [{""indicador"": 74, ""palavras"": [0], ""cod_palavra"": [0]}, {""indicador"": 75, ""palavras"": [0], ""cod_palavra"": [0]}]}"
+1003,45,Q,"{""Entidades"": [{""indicador"": 74, ""palavras"": [""G""], ""cod_palavra"": [614]}, {""indicador"": 75, ""palavras"": [""G""], ""cod_palavra"": [614]}]}"
+1004,60,U,"{""Entidades"": [{""indicador"": 74, ""palavras"": [""H""], ""cod_palavra"": [600]}, {""indicador"": 75, ""palavras"": [""H""], ""cod_palavra"": [600]}]}"
+1005,74,M,"{""Entidades"": [{""indicador"": 74, ""palavras"": [""I"", ""J"", ""K""], ""cod_palavra"": [600, 614, 754]}, {""indicador"": 75, ""palavras"": [""I"", ""J"", ""K""], ""cod_palavra"": [600, 614, 754]}]}"
+1006,54,V,"{""Entidades"": [{""indicador"": 74, ""palavras"": [0], ""cod_palavra"": [0]}, {""indicador"": 75, ""palavras"": [0], ""cod_palavra"": [0]}]}"
+1007,10,T,"{""Entidades"": [{""indicador"": 74, ""palavras"": [0], ""cod_palavra"": [0]}, {""indicador"": 75, ""palavras"": [0], ""cod_palavra"": [0]}]}"
+1008,21,X,"{""Entidades"": [{""indicador"": 74, ""palavras"": [""G""], ""cod_palavra"": [614]}, {""indicador"": 75, ""palavras"": [""G""], ""cod_palavra"": [614]}]}"
+1009,11,Y,"{""Entidades"": [{""indicador"": 74, ""palavras"": [""H""], ""cod_palavra"": [600]}, {""indicador"": 75, ""palavras"": [""H""], ""cod_palavra"": [600]}]}"
+1010,36,W,"{""Entidades"": [{""indicador"": 74, ""palavras"": [""I"", ""J"", ""K""], ""cod_palavra"": [600, 614, 754]}, {""indicador"": 75, ""palavras"": [""I"", ""J"", ""K""], ""cod_palavra"": [600, 614, 754]}]}"
